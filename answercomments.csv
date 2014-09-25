@@ -1,0 +1,1 @@
+id (PK),user_id (FK),answer_id (FK),content
